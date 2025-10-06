@@ -1,0 +1,17 @@
+# Backend
+backend/.env
+backend/node_modules
+
+# dependencies
+frontend/node_modules
+
+# next.js
+frontend/.next/
+frontend/out/
+
+# production
+frontend/build
+
+# debug
+frontend/npm-debug.log*
+
